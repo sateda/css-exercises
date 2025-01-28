@@ -1,0 +1,14 @@
+.button-simple,
+.button-deluxe {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.button-simple {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.button-deluxe {
+    background-color: #ffff00;
+}
